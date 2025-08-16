@@ -1,0 +1,654 @@
+{
+  "fields": [
+    {
+      "id": "a",
+      "label": "City Name",
+      "type": "string"
+    },
+    {
+      "id": "b",
+      "label": "Zone Name",
+      "type": "string"
+    },
+    {
+      "id": "c",
+      "label": "Ward Name",
+      "type": "string"
+    },
+    {
+      "id": "d",
+      "label": "Ward No.",
+      "type": "string"
+    },
+    {
+      "id": "e",
+      "label": "Road Name",
+      "type": "string"
+    },
+    {
+      "id": "f",
+      "label": "Length of Roads (in Mtr)",
+      "type": "string"
+    },
+    {
+      "id": "g",
+      "label": "Length of Tar Roads (in Mtr)",
+      "type": "string"
+    },
+    {
+      "id": "h",
+      "label": "Length of Concrete Roads (in Mtr)",
+      "type": "string"
+    }
+  ],
+  "data": [
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "East Fort - Killipalam (Chalai Market Road)",
+      "972",
+      "972",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Manaveeyam Road ",
+      "225",
+      "225",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "C V Raman Pillai Road (Althara Jn. to Mettukkada Jn.)",
+      "2325",
+      "NA",
+      "2325"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Mettukada Jn to Chenthitta Jn.",
+      "705",
+      "NA",
+      "705"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Killipalam Jn. To Attakulangara Jn ",
+      "1166",
+      "NA",
+      "1166"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Aryasala Road",
+      "378",
+      "378",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Kalyan Hospital to Therakom",
+      "145",
+      "145",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Chenthitta Jn. To DDE Jn.  - NH Division",
+      "285",
+      "NA",
+      "285"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "DDE Office Jn. to Killipalam Jn. - NH Division",
+      "225",
+      "NA",
+      "225"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Public Library -Nandavanam Road",
+      "191",
+      "NA",
+      "191"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Forest Office Junction - Bakery Junction Road",
+      "585",
+      "585",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "VJT Hall Flyover  Road ",
+      "210",
+      "210",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "SMSM Institute Government Press Road",
+      "98",
+      "98",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Ganapathi Kovil Road",
+      "568",
+      "568",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Karunakaran Sapthathi Road",
+      "576",
+      "576",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "SS Kovil Road",
+      "770",
+      "NA",
+      "770"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Palayam Nandavanam Panchapura Road ",
+      "376",
+      "NA",
+      "376"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Rose House Panavilla Road (Kalbhavan Mani Road)",
+      "154",
+      "154",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Thycaud House Keezhe Thampanoor Road ",
+      "595",
+      "595",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "New Theatre Road",
+      "356",
+      "356",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "NORKA-Gandhi Bhavan Road",
+      "502",
+      "502",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Annie Mascrene - Bakery Junction Road",
+      "424",
+      "424",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Kripa Theatre-Ajantha Theatre Road ",
+      "257",
+      "257",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Central Theatre Road ",
+      "270",
+      "270",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Pazhavangadi - Westfort (Padmavilasam Road)",
+      "590",
+      null, "590"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Pazhavangadi - Uppidammodu (Canal Road)",
+      "868",
+      "868",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Manjalkulam Road ",
+      "810",
+      "810",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Aristo Road",
+      "258",
+      "258",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Punnen Road ",
+      "223",
+      "223",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Pulimoodu Residency Road (Pulimoodu Jn. To Housing Board Jn.)",
+      "480",
+      "480",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Pulimoodu Residency Road (Housing Board Jn. To Model School Jn.)",
+      "337",
+      "337",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Pulimoodu Residency Road (Model School Jn. To Mettukada Jn.)",
+      "461",
+      "461",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Statue General Hospital Uppidamoodu (Chirakulam) Road ",
+      "1041",
+      "1041",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Overbridge Collectorate Uppidamoodu Junction",
+      "731",
+      "731",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Pulimoodu-Uppidamoodu (Ambujavilasam Road)",
+      "903",
+      "903",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Ayurveda College - Old GPO Kunnumpuram",
+      "343",
+      "343",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Statue-General Hospital-Vanchiyoor",
+      "444",
+      null, "444"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Ayurveda College - Chettikulangara",
+      "254",
+      "254",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Spencer Gashouse Jn",
+      "238",
+      "238",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "WestNada Azhikoota  Road",
+      "166",
+      "166",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Court Jn to General Hospital Jn. ",
+      "705",
+      "705",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Attakulangara to Azhikoota Jn.",
+      "599",
+      "599",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Westnada to Sreekanteshwaram",
+      "315",
+      "315",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "SreeKanteswaram Park to Uppidamoodu Bridge",
+      "450",
+      "450",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Uppidamoodu Bridge to Court Jn. ",
+      "570",
+      "570",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "General hospital to Palayam Jn.",
+      "990",
+      "990",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Palayam Jn. to RR Lamp ",
+      "540",
+      "540",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "RR Lamp-CDAC Junction",
+      "1065",
+      "1065",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Museum Nandavanam Road",
+      "54",
+      "54",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Attakulangara Jn. To Palayam Jn.",
+      "2850",
+      "2850",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Underpass to Bakery Junction ",
+      "555",
+      "555",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Azhikoota Jn.to Kothalam Jn.",
+      "262",
+      "262",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Museum-Bakery Jn",
+      "1086",
+      "1086",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Bakery-Thampanoor-OverBridge Road",
+      "2113",
+      "2113",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Vanross Oottukuzhy Road",
+      "462",
+      "462",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Secretariat to Press Club Road",
+      "846",
+      "846",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Press Club Oottukuzhy Road",
+      "462",
+      "462",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Fort Hospital to Thakaraparambu Road",
+      "135",
+      "135",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Thakaraparambu Road",
+      "839",
+      "839",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Punnapuram Jn. to Uppidamoodu Bridge",
+      "425",
+      "425",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Eanchakkkal to Fort Hospital Road ",
+      "294",
+      "294",
+      "NA"
+    ]
+  ]
+}

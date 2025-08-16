@@ -1,0 +1,156 @@
+[
+    {
+        "Sl No": 1,
+        "Department": "Directorate of Industries and Commerce",
+        "Service Count": 12,
+        "Disposed Count": 83,
+        "Total Applications": 0,
+        "Average Time Taken (days)": 70,
+        "Median Time Taken (days)": 0,
+        "Minimum Time Taken (days)": 0,
+        "Maximum Time Taken (days)": 1026
+    },
+    {
+        "Sl No": 2,
+        "Department": "Drugs Control",
+        "Service Count": 3,
+        "Disposed Count": 0,
+        "Total Applications": 0,
+        "Average Time Taken (days)": 0,
+        "Median Time Taken (days)": 0,
+        "Minimum Time Taken (days)": 0,
+        "Maximum Time Taken (days)": 0
+    },
+    {
+        "Sl No": 3,
+        "Department": "Electrical Inspectorate",
+        "Service Count": 3,
+        "Disposed Count": 0,
+        "Total Applications": 0,
+        "Average Time Taken (days)": 0,
+        "Median Time Taken (days)": 0,
+        "Minimum Time Taken (days)": 0,
+        "Maximum Time Taken (days)": 0
+    },
+    {
+        "Sl No": 4,
+        "Department": "Excise Department",
+        "Service Count": 18,
+        "Disposed Count": 1173,
+        "Total Applications": 1409,
+        "Average Time Taken (days)": 14,
+        "Median Time Taken (days)": 0,
+        "Minimum Time Taken (days)": 0,
+        "Maximum Time Taken (days)": 534
+    },
+    {
+        "Sl No": 5,
+        "Department": "Factories and Boilers",
+        "Service Count": 5,
+        "Disposed Count": 1125,
+        "Total Applications": 1281,
+        "Average Time Taken (days)": 8,
+        "Median Time Taken (days)": 0,
+        "Minimum Time Taken (days)": 0,
+        "Maximum Time Taken (days)": 114
+    },
+    {
+        "Sl No": 6,
+        "Department": "Fire and Rescue Service",
+        "Service Count": 2,
+        "Disposed Count": 0,
+        "Total Applications": 0,
+        "Average Time Taken (days)": 0,
+        "Median Time Taken (days)": 0,
+        "Minimum Time Taken (days)": 0,
+        "Maximum Time Taken (days)": 0
+    },
+    {
+        "Sl No": 7,
+        "Department": "Kerala State Pollution Control Board",
+        "Service Count": 4,
+        "Disposed Count": 8791,
+        "Total Applications": 25041,
+        "Average Time Taken (days)": 36,
+        "Median Time Taken (days)": 0,
+        "Minimum Time Taken (days)": 0,
+        "Maximum Time Taken (days)": 327
+    },
+    {
+        "Sl No": 8,
+        "Department": "Kerala Water Authority",
+        "Service Count": 27,
+        "Disposed Count": 106992,
+        "Total Applications": 181129,
+        "Average Time Taken (days)": 11,
+        "Median Time Taken (days)": 0,
+        "Minimum Time Taken (days)": 0,
+        "Maximum Time Taken (days)": 316
+    },
+    {
+        "Sl No": 9,
+        "Department": "Labour and skills department",
+        "Service Count": 9,
+        "Disposed Count": 30085,
+        "Total Applications": 60662,
+        "Average Time Taken (days)": 16,
+        "Median Time Taken (days)": 0,
+        "Minimum Time Taken (days)": 0,
+        "Maximum Time Taken (days)": 329
+    },
+    {
+        "Sl No": 10,
+        "Department": "Land revenue",
+        "Service Count": 1,
+        "Disposed Count": 0,
+        "Total Applications": 0,
+        "Average Time Taken (days)": 0,
+        "Median Time Taken (days)": 0,
+        "Minimum Time Taken (days)": 0,
+        "Maximum Time Taken (days)": 0
+    },
+    {
+        "Sl No": 11,
+        "Department": "Legal metrology department",
+        "Service Count": 28,
+        "Disposed Count": 37613,
+        "Total Applications": 43184,
+        "Average Time Taken (days)": 33,
+        "Median Time Taken (days)": 0,
+        "Minimum Time Taken (days)": 0,
+        "Maximum Time Taken (days)": 287
+    },
+    {
+        "Sl No": 12,
+        "Department": "Local self government department",
+        "Service Count": 7,
+        "Disposed Count": 78,
+        "Total Applications": 242,
+        "Average Time Taken (days)": 101,
+        "Median Time Taken (days)": 0,
+        "Minimum Time Taken (days)": 0,
+        "Maximum Time Taken (days)": 329
+    },
+    {
+        "Sl No": 13,
+        "Department": "Registration department",
+        "Service Count": 1,
+        "Disposed Count": 0,
+        "Total Applications": 0,
+        "Average Time Taken (days)": 0,
+        "Median Time Taken (days)": 0,
+        "Minimum Time Taken (days)": 0,
+        "Maximum Time Taken (days)": 0
+    },
+    {
+        "Sl No": 14,
+        "Department": "The Kerala State Electricity Board",
+        "Service Count": 3,
+        "Disposed Count": 0,
+        "Total Applications": 0,
+        "Average Time Taken (days)": 0,
+        "Median Time Taken (days)": 0,
+        "Minimum Time Taken (days)": 0,
+        "Maximum Time Taken (days)": 0
+    }
+]

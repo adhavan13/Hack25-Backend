@@ -1,0 +1,66 @@
+{
+  "fields": [
+    {
+      "id": "a",
+      "label": "Sl NO",
+      "type": "string"
+    },
+    {
+      "id": "b",
+      "label": "Localbody Type",
+      "type": "string"
+    },
+    {
+      "id": "c",
+      "label": "Total Budget",
+      "type": "string"
+    },
+    {
+      "id": "d",
+      "label": "Total Expenditure",
+      "type": "string"
+    },
+    {
+      "id": "e",
+      "label": "% of Expenditure",
+      "type": "string"
+    }
+  ],
+  "data": [
+    [
+      "1",
+      "Corporation",
+      "716.72",
+      "504.02",
+      "70.32"
+    ],
+    [
+      "2",
+      "District Panchayat",
+      "892.22",
+      "719.5",
+      "80.64"
+    ],
+    [
+      "3",
+      "Municipality",
+      "909.07",
+      "742.56",
+      "81.68"
+    ],
+    [
+      "4",
+      "Block Panchayat",
+      "893.47",
+      "798.31",
+      "89.35"
+    ],
+    [
+      "5",
+      "Grama Panchayat",
+      "3310.44",
+      "2931.68",
+      "88.56"
+    ]
+  ]
+}

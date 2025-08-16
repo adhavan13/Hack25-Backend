@@ -1,0 +1,922 @@
+[
+  {
+    "Sl No": 1,
+    "eSevanam id": 1529,
+    "Department": "Backward Classes Development Department",
+    "Service name": "CA/CMA/CS Scholarship for OBC (100% CSS) (Scholarship)",
+    "Disposal %": 74.21,
+    "Application Received": 3579,
+    "Approved": 2429,
+    "Pending + Processing": 923
+  },
+  {
+    "Sl No": 2,
+    "eSevanam id": 1530,
+    "Department": "Backward Classes Development Department",
+    "Service name": "EEP - Financial Assistance for Competitive Exams(OBC) (Scholarship)",
+    "Disposal %": 92.39,
+    "Application Received": 7080,
+    "Approved": 5981,
+    "Pending + Processing": 539
+  },
+  {
+    "Sl No": 3,
+    "eSevanam id": 1533,
+    "Department": "Backward Classes Development Department",
+    "Service name": "LUMPSUM GRANT FOR OEC EQUIVALENT (30) STUDENTS (Scholarship)",
+    "Disposal %": 97.47,
+    "Application Received": 390989,
+    "Approved": 381111,
+    "Pending + Processing": 9878
+  },
+  {
+    "Sl No": 4,
+    "eSevanam id": 1534,
+    "Department": "Backward Classes Development Department",
+    "Service name": "LUMPSUMGRANT FOR OEC STUDENTS (Scholarship)",
+    "Disposal %": 96.7,
+    "Application Received": 437277,
+    "Approved": 422861,
+    "Pending + Processing": 14416
+  },
+  {
+    "Sl No": 5,
+    "eSevanam id": 0,
+    "Department": "Backward Classes Development Department",
+    "Service name": "OBC Postmatric scholarship - outside state (Scholarship)",
+    "Disposal %": 93.7,
+    "Application Received": 2127,
+    "Approved": 1194,
+    "Pending + Processing": 134
+  },
+  {
+    "Sl No": 6,
+    "eSevanam id": 0,
+    "Department": "Backward Classes Development Department",
+    "Service name": "OBC(H) Postmatric scholarship - outside state (Scholarship)",
+    "Disposal %": 91.25,
+    "Application Received": 297,
+    "Approved": 211,
+    "Pending + Processing": 26
+  },
+  {
+    "Sl No": 7,
+    "eSevanam id": 0,
+    "Department": "Backward Classes Development Department",
+    "Service name": "OEC Postmatric scholarship - outside state (Scholarship)",
+    "Disposal %": 93.23,
+    "Application Received": 133,
+    "Approved": 91,
+    "Pending + Processing": 9
+  },
+  {
+    "Sl No": 8,
+    "eSevanam id": 1536,
+    "Department": "Backward Classes Development Department",
+    "Service name": "Overseas Scholarship - OBC (Scholarship)",
+    "Disposal %": 78.17,
+    "Application Received": 481,
+    "Approved": 368,
+    "Pending + Processing": 105
+  },
+  {
+    "Sl No": 9,
+    "eSevanam id": 0,
+    "Department": "Backward Classes Development Department",
+    "Service name": "PM - YASASVI - OBC, EBC Prematric Scholarship (Scholarship)",
+    "Disposal %": 100,
+    "Application Received": 679344,
+    "Approved": 679344,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 10,
+    "eSevanam id": 0,
+    "Department": "Backward Classes Development Department",
+    "Service name": "PM-YASASVI – OBC, EBC Postmatric Scholarship (Scholarship)",
+    "Disposal %": 60.71,
+    "Application Received": 4574,
+    "Approved": 2287,
+    "Pending + Processing": 1797
+  },
+  {
+    "Sl No": 11,
+    "eSevanam id": 1537,
+    "Department": "Backward Classes Development Department",
+    "Service name": "POSTMATRIC SCHOLARSHIP FOR OBC STUDENTS(EGRANTZ) (Scholarship)",
+    "Disposal %": 89.67,
+    "Application Received": 822025,
+    "Approved": 702524,
+    "Pending + Processing": 84888
+  },
+  {
+    "Sl No": 12,
+    "eSevanam id": 1538,
+    "Department": "Backward Classes Development Department",
+    "Service name": "POSTMATRIC SCHOLARSHIP FOR OBC(H) STUDENTS(EGRANTZ) (Scholarship)",
+    "Disposal %": 26.4,
+    "Application Received": 32322,
+    "Approved": 8183,
+    "Pending + Processing": 23789
+  },
+  {
+    "Sl No": 13,
+    "eSevanam id": 1539,
+    "Department": "Backward Classes Development Department",
+    "Service name": "POSTMATRIC SCHOLARSHIP FOR OBCHSS STUDENTS(EGRANTZ) (Scholarship)",
+    "Disposal %": 97.97,
+    "Application Received": 574171,
+    "Approved": 542521,
+    "Pending + Processing": 11629
+  },
+  {
+    "Sl No": 14,
+    "eSevanam id": 1540,
+    "Department": "Backward Classes Development Department",
+    "Service name": "POSTMATRIC SCHOLARSHIP FOR OEC STUDENTS(EGRANTZ) (Scholarship)",
+    "Disposal %": 34.77,
+    "Application Received": 35593,
+    "Approved": 12013,
+    "Pending + Processing": 23219
+  },
+  {
+    "Sl No": 15,
+    "eSevanam id": 0,
+    "Department": "Backward Classes Development Department",
+    "Service name": "Special scholarship for OBC girls (Scholarship)",
+    "Disposal %": 78.85,
+    "Application Received": 104,
+    "Approved": 66,
+    "Pending + Processing": 22
+  },
+  {
+    "Sl No": 16,
+    "eSevanam id": 1997,
+    "Department": "Chief Minister's Public Grievance Redressal System",
+    "Service name": "CMO (Grievance)",
+    "Disposal %": 98.68,
+    "Application Received": 572542,
+    "Approved": 568564,
+    "Pending + Processing": 3771
+  },
+  {
+    "Sl No": 17,
+    "eSevanam id": 497,
+    "Department": "Co-operative Department",
+    "Service name": "Byelaw Amendment(STATE WIDE) (Registration)",
+    "Disposal %": 50.41,
+    "Application Received": 123,
+    "Approved": 54,
+    "Pending + Processing": 61
+  },
+  {
+    "Sl No": 18,
+    "eSevanam id": 0,
+    "Department": "Co-operative Department",
+    "Service name": "Byelaw Amendment(WITHIN ONE DISTRCT) (Registration)",
+    "Disposal %": 52.98,
+    "Application Received": 7563,
+    "Approved": 3473,
+    "Pending + Processing": 3556
+  },
+  {
+    "Sl No": 19,
+    "eSevanam id": 495,
+    "Department": "Co-operative Department",
+    "Service name": "Society Registration(STATE WIDE) (Registration)",
+    "Disposal %": 83.33,
+    "Application Received": 24,
+    "Approved": 18,
+    "Pending + Processing": 4
+  },
+  {
+    "Sl No": 20,
+    "eSevanam id": 0,
+    "Department": "Co-operative Department",
+    "Service name": "Society Registration(WITHIN ONE DISTRCT) (Registration)",
+    "Disposal %": 97.41,
+    "Application Received": 502,
+    "Approved": 435,
+    "Pending + Processing": 13
+  },
+  {
+    "Sl No": 21,
+    "eSevanam id": 0,
+    "Department": "Collegiate Education",
+    "Service name": "Directorate of Collegiate Education (DCE Scholarship)",
+    "Disposal %": 100,
+    "Application Received": 1132066,
+    "Approved": 954389,
+    "Pending + Processing": 12
+  },
+  {
+    "Sl No": 22,
+    "eSevanam id": 1920,
+    "Department": "Dairy Development Department",
+    "Service name": "5 COW UNIT (Registration)",
+    "Disposal %": 100,
+    "Application Received": 392,
+    "Approved": 99,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 23,
+    "eSevanam id": 1922,
+    "Department": "Dairy Development Department",
+    "Service name": "COMPOSITE DAIRY UNIT(1 MILCH COW+ 1 HEIFER) (Registration)",
+    "Disposal %": 100,
+    "Application Received": 364,
+    "Approved": 85,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 24,
+    "eSevanam id": 1921,
+    "Department": "Dairy Development Department",
+    "Service name": "COMPOSITE DAIRY UNIT(3 MILCH COW+ 2 HEIFER) (Registration)",
+    "Disposal %": 100,
+    "Application Received": 116,
+    "Approved": 26,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 25,
+    "eSevanam id": 1923,
+    "Department": "Dairy Development Department",
+    "Service name": "CONSTRUCTION OF SCIENTIFIC CATTLE SHED (Registration)",
+    "Disposal %": 100,
+    "Application Received": 189,
+    "Approved": 20,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 26,
+    "eSevanam id": 0,
+    "Department": "Dairy Development Department",
+    "Service name": "FODDER CULTIVATION - 20 CENTS & ABOVE (Registration)",
+    "Disposal %": 100,
+    "Application Received": 10598,
+    "Approved": 8714,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 27,
+    "eSevanam id": 1925,
+    "Department": "Dairy Development Department",
+    "Service name": "MINERAL MIXTURE (Registration)",
+    "Disposal %": 100,
+    "Application Received": 720,
+    "Approved": 673,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 28,
+    "eSevanam id": 1924,
+    "Department": "Dairy Development Department",
+    "Service name": "NEED BASED ASSISTANCE TO PROGRESSIVE DAIRY FARMERS (Registration)",
+    "Disposal %": 100,
+    "Application Received": 521,
+    "Approved": 175,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 29,
+    "eSevanam id": 1919,
+    "Department": "Dairy Development Department",
+    "Service name": "TWO COW UNIT (Registration)",
+    "Disposal %": 100,
+    "Application Received": 1773,
+    "Approved": 687,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 30,
+    "eSevanam id": 986,
+    "Department": "Department of Agriculture Development and Farmers' Welfare",
+    "Service name": "Assistance for Crop Loss due to Natural Calamity (Financial Assistance)",
+    "Disposal %": 98.38,
+    "Application Received": 367877,
+    "Approved": 334734,
+    "Pending + Processing": 5978
+  },
+  {
+    "Sl No": 31,
+    "eSevanam id": 1714,
+    "Department": "Department of Agriculture Development and Farmers' Welfare",
+    "Service name": "Karshaka Pension for small and marginal farmers (New Registration)",
+    "Disposal %": 99.46,
+    "Application Received": 279105,
+    "Approved": 277603,
+    "Pending + Processing": 1502
+  },
+  {
+    "Sl No": 32,
+    "eSevanam id": 989,
+    "Department": "Department of Agriculture Development and Farmers' Welfare",
+    "Service name": "Kerala Farm Fresh Fruits and vegetables -Base price (Financial Assistance)",
+    "Disposal %": 95.24,
+    "Application Received": 103469,
+    "Approved": 72723,
+    "Pending + Processing": 4928
+  },
+  {
+    "Sl No": 33,
+    "eSevanam id": 988,
+    "Department": "Department of Agriculture Development and Farmers' Welfare",
+    "Service name": "Royalty to the Owners of Cultivable Paddy Land (Financial Assistance)",
+    "Disposal %": 95.07,
+    "Application Received": 325213,
+    "Approved": 252685,
+    "Pending + Processing": 16036
+  },
+  {
+    "Sl No": 34,
+    "eSevanam id": 987,
+    "Department": "Department of Agriculture Development and Farmers' Welfare",
+    "Service name": "State Crop Insurance Claim (Financial Assistance)",
+    "Disposal %": 95.67,
+    "Application Received": 57331,
+    "Approved": 50059,
+    "Pending + Processing": 2484
+  },
+  {
+    "Sl No": 35,
+    "eSevanam id": 238,
+    "Department": "Department of Agriculture Development and Farmers' Welfare",
+    "Service name": "State Crop Insurance Policy (Certificate Service)",
+    "Disposal %": 99.08,
+    "Application Received": 328549,
+    "Approved": 236210,
+    "Pending + Processing": 3035
+  },
+  {
+    "Sl No": 36,
+    "eSevanam id": 2024,
+    "Department": "Department of Civil Supplies and Consumer Affairs",
+    "Service name": "Add Transfered Cards (Registration)",
+    "Disposal %": 99.73,
+    "Application Received": 114792,
+    "Approved": 113880,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 37,
+    "eSevanam id": 772,
+    "Department": "Department of Civil Supplies and Consumer Affairs",
+    "Service name": "Addition of Member (Registration)",
+    "Disposal %": 99.84,
+    "Application Received": 3360008,
+    "Approved": 3299872,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 38,
+    "eSevanam id": 775,
+    "Department": "Department of Civil Supplies and Consumer Affairs",
+    "Service name": "Address Change (Registration)",
+    "Disposal %": 99.8,
+    "Application Received": 456243,
+    "Approved": 449819,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 39,
+    "eSevanam id": 1622,
+    "Department": "Department of Civil Supplies and Consumer Affairs",
+    "Service name": "Bank A/C (Registration)",
+    "Disposal %": 99.74,
+    "Application Received": 10567,
+    "Approved": 10391,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 40,
+    "eSevanam id": 1624,
+    "Department": "Department of Civil Supplies and Consumer Affairs",
+    "Service name": "Change ARD (Registration)",
+    "Disposal %": 99.85,
+    "Application Received": 191442,
+    "Approved": 185557,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 41,
+    "eSevanam id": 2025,
+    "Department": "Department of Civil Supplies and Consumer Affairs",
+    "Service name": "Change of Ownership (Registration)",
+    "Disposal %": 99.79,
+    "Application Received": 742802,
+    "Approved": 727395,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 42,
+    "eSevanam id": 1625,
+    "Department": "Department of Civil Supplies and Consumer Affairs",
+    "Service name": "Change Residence Status (Registration)",
+    "Disposal %": 99.11,
+    "Application Received": 577271,
+    "Approved": 557479,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 43,
+    "eSevanam id": 2026,
+    "Department": "Department of Civil Supplies and Consumer Affairs",
+    "Service name": "General Details (Registration)",
+    "Disposal %": "99.92",
+    "Application Received": 2034957,
+    "Approved": 2021850,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 44,
+    "eSevanam id": 779,
+    "Department": "Department of Civil Supplies and Consumer Affairs",
+    "Service name": "Issue of Duplicate Ration Card (Registration)",
+    "Disposal %": "99.91",
+    "Application Received": 86104,
+    "Approved": 80703,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 45,
+    "eSevanam id": 1621,
+    "Department": "Department of Civil Supplies and Consumer Affairs",
+    "Service name": "LPG Details (Registration)",
+    "Disposal %": "99.83",
+    "Application Received": 21261,
+    "Approved": 20967,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 46,
+    "eSevanam id": 777,
+    "Department": "Department of Civil Supplies and Consumer Affairs",
+    "Service name": "Name Correction (Registration)",
+    "Disposal %": "99.92",
+    "Application Received": 1677783,
+    "Approved": 1664839,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 47,
+    "eSevanam id": 769,
+    "Department": "Department of Civil Supplies and Consumer Affairs",
+    "Service name": "New Rationcard (Registration)",
+    "Disposal %": "99.83",
+    "Application Received": 1645067,
+    "Approved": 1564641,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 48,
+    "eSevanam id": 774,
+    "Department": "Department of Civil Supplies and Consumer Affairs",
+    "Service name": "Profession Change (Registration)",
+    "Disposal %": "99.76",
+    "Application Received": 681755,
+    "Approved": 658471,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 49,
+    "eSevanam id": 771,
+    "Department": "Department of Civil Supplies and Consumer Affairs",
+    "Service name": "Reduction of Member (Registration)",
+    "Disposal %": "99.9",
+    "Application Received": 2798676,
+    "Approved": 2730047,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 50,
+    "eSevanam id": 770,
+    "Department": "Department of Civil Supplies and Consumer Affairs",
+    "Service name": "Surrender of Cards (Registration)",
+    "Disposal %": "99.66",
+    "Application Received": 41440,
+    "Approved": 39786,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 51,
+    "eSevanam id": 1623,
+    "Department": "Department of Civil Supplies and Consumer Affairs",
+    "Service name": "Transfer of Cards (Registration)",
+    "Disposal %": "99.54",
+    "Application Received": 122974,
+    "Approved": 118930,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 52,
+    "eSevanam id": 773,
+    "Department": "Department of Civil Supplies and Consumer Affairs",
+    "Service name": "Transfer of Member (Registration)",
+    "Disposal %": "99.91",
+    "Application Received": 1103540,
+    "Approved": 1093120,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 53,
+    "eSevanam id": 1179,
+    "Department": "Department of Homeopathy",
+    "Service name": "Homoeopathic Immune Booster Distribution (Homoeopathic Immune Booster Distribution)",
+    "Disposal %": "100",
+    "Application Received": 934157,
+    "Approved": 934157,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 54,
+    "eSevanam id": 371,
+    "Department": "Department of Tourism",
+    "Service name": "Amusement Park (Registration)",
+    "Disposal %": "0",
+    "Application Received": 2,
+    "Approved": 0,
+    "Pending + Processing": 2
+  },
+  {
+    "Sl No": 55,
+    "eSevanam id": 367,
+    "Department": "Department of Tourism",
+    "Service name": "Ayurveda Centre (Registration)",
+    "Disposal %": "86.89",
+    "Application Received": 61,
+    "Approved": 53,
+    "Pending + Processing": 8
+  },
+  {
+    "Sl No": 56,
+    "eSevanam id": 365,
+    "Department": "Department of Tourism",
+    "Service name": "Homestay (Registration)",
+    "Disposal %": "74.29",
+    "Application Received": 1610,
+    "Approved": 1057,
+    "Pending + Processing": 414
+  },
+  {
+    "Sl No": 57,
+    "eSevanam id": 1754,
+    "Department": "Department of Tourism",
+    "Service name": "Hotel, Guest House, accommodation unit registration (New registration)",
+    "Disposal %": "70.95",
+    "Application Received": 3856,
+    "Approved": 1453,
+    "Pending + Processing": 1120
+  },
+  {
+    "Sl No": 58,
+    "eSevanam id": 368,
+    "Department": "Department of Tourism",
+    "Service name": "Houseboats - Approval or Renewal (Registration)",
+    "Disposal %": "100",
+    "Application Received": 6,
+    "Approved": 6,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 59,
+    "eSevanam id": 0,
+    "Department": "Department of Tourism",
+    "Service name": "Resort & Hotel (Registration)",
+    "Disposal %": "0",
+    "Application Received": 4,
+    "Approved": 0,
+    "Pending + Processing": 4
+  },
+  {
+    "Sl No": 60,
+    "eSevanam id": 366,
+    "Department": "Department of Tourism",
+    "Service name": "Restaurant (Registration)",
+    "Disposal %": "40.91",
+    "Application Received": 22,
+    "Approved": 9,
+    "Pending + Processing": 13
+  },
+  {
+    "Sl No": 61,
+    "eSevanam id": 369,
+    "Department": "Department of Tourism",
+    "Service name": "Servicedvilla (Registration)",
+    "Disposal %": "55.38",
+    "Application Received": 316,
+    "Approved": 173,
+    "Pending + Processing": 141
+  },
+  {
+    "Sl No": 62,
+    "eSevanam id": 1772,
+    "Department": "Department of Tourism",
+    "Service name": "Tour Operator Accreditation (Applications)",
+    "Disposal %": "83.78",
+    "Application Received": 111,
+    "Approved": 74,
+    "Pending + Processing": 18
+  },
+  {
+    "Sl No": 63,
+    "eSevanam id": 0,
+    "Department": "Department of Tourism",
+    "Service name": "Yathrinivas (Reservations)",
+    "Disposal %": "100",
+    "Application Received": 19906,
+    "Approved": 11512,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 64,
+    "eSevanam id": 1516,
+    "Department": "Directorate of Handlooms and Textiles",
+    "Service name": "Comprehensive revival scheme for CSMs (under TEXFED) (New registration)",
+    "Disposal %": "100",
+    "Application Received": 22,
+    "Approved": 8,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 65,
+    "eSevanam id": 1505,
+    "Department": "Directorate of Handlooms and Textiles",
+    "Service name": "Contributory Thrift Fund Scheme (CTF) (New registration)",
+    "Disposal %": "57.92",
+    "Application Received": 1079,
+    "Approved": 505,
+    "Pending + Processing": 454
+  },
+  {
+    "Sl No": 66,
+    "eSevanam id": 1506,
+    "Department": "Directorate of Handlooms and Textiles",
+    "Service name": "Export Incentive(EI) (New registration)",
+    "Disposal %": "100",
+    "Application Received": 3,
+    "Approved": 1,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 67,
+    "eSevanam id": 1498,
+    "Department": "Directorate of Handlooms and Textiles",
+    "Service name": "Government Share Participation in PHWCS (New registration)",
+    "Disposal %": "43.1",
+    "Application Received": 58,
+    "Approved": 11,
+    "Pending + Processing": 33
+  },
+  {
+    "Sl No": 68,
+    "eSevanam id": 1507,
+    "Department": "Directorate of Handlooms and Textiles",
+    "Service name": "Grant for Exhibition/fair (EG) (New registration)",
+    "Disposal %": "35.11",
+    "Application Received": 413,
+    "Approved": 99,
+    "Pending + Processing": 268
+  },
+  {
+    "Sl No": 69,
+    "eSevanam id": 1508,
+    "Department": "Directorate of Handlooms and Textiles",
+    "Service name": "Handloom mark (HM) (New registration)",
+    "Disposal %": "36.36",
+    "Application Received": 22,
+    "Approved": 3,
+    "Pending + Processing": 14
+  },
+  {
+    "Sl No": 70,
+    "eSevanam id": 1511,
+    "Department": "Directorate of Handlooms and Textiles",
+    "Service name": "IIHT Expenses (New registration)",
+    "Disposal %": "50",
+    "Application Received": 2,
+    "Approved": 1,
+    "Pending + Processing": 1
+  },
+  {
+    "Sl No": 71,
+    "eSevanam id": 1518,
+    "Department": "Directorate of Handlooms and Textiles",
+    "Service name": "Income support scheme (New registration)",
+    "Disposal %": "81.66",
+    "Application Received": 289,
+    "Approved": 204,
+    "Pending + Processing": 53
+  },
+  {
+    "Sl No": 72,
+    "eSevanam id": 1509,
+    "Department": "Directorate of Handlooms and Textiles",
+    "Service name": "Modernisation of handloom societies and promotion of value added Products* (New registration)",
+    "Disposal %": "56.96",
+    "Application Received": 388,
+    "Approved": 123,
+    "Pending + Processing": 167
+  },
+  {
+    "Sl No": 73,
+    "eSevanam id": 1515,
+    "Department": "Directorate of Handlooms and Textiles",
+    "Service name": "Modernisation of powerloom socieites under TEXFED (MTEX) (New registration)",
+    "Disposal %": "100",
+    "Application Received": 3,
+    "Approved": 3,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 74,
+    "eSevanam id": 1510,
+    "Department": "Directorate of Handlooms and Textiles",
+    "Service name": "Professional designers (PD) (New registration)",
+    "Disposal %": "50",
+    "Application Received": 26,
+    "Approved": 13,
+    "Pending + Processing": 13
+  },
+  {
+    "Sl No": 75,
+    "eSevanam id": 1501,
+    "Department": "Directorate of Handlooms and Textiles",
+    "Service name": "Providing margin money(MML) loan for quality raw materials (New registration)",
+    "Disposal %": "66.67",
+    "Application Received": 9,
+    "Approved": 0,
+    "Pending + Processing": 3
+  },
+  {
+    "Sl No": 76,
+    "eSevanam id": 1500,
+    "Department": "Directorate of Handlooms and Textiles",
+    "Service name": "Providing subsidy for quality raw material for weavers (New registration)",
+    "Disposal %": "43.09",
+    "Application Received": 123,
+    "Approved": 32,
+    "Pending + Processing": 70
+  },
+  {
+    "Sl No": 77,
+    "eSevanam id": 1517,
+    "Department": "Directorate of Handlooms and Textiles",
+    "Service name": "Rebate (New registration)",
+    "Disposal %": "45.75",
+    "Application Received": 717,
+    "Approved": 187,
+    "Pending + Processing": 389
+  },
+  {
+    "Sl No": 78,
+    "eSevanam id": 1513,
+    "Department": "Directorate of Handlooms and Textiles",
+    "Service name": "Revitilisation of Powerloom Societies (New registration)",
+    "Disposal %": "50",
+    "Application Received": 6,
+    "Approved": 0,
+    "Pending + Processing": 3
+  },
+  {
+    "Sl No": 79,
+    "eSevanam id": 1502,
+    "Department": "Directorate of Handlooms and Textiles",
+    "Service name": "Self employment generation (New registration)",
+    "Disposal %": "100",
+    "Application Received": 1,
+    "Approved": 1,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 80,
+    "eSevanam id": 1499,
+    "Department": "Directorate of Handlooms and Textiles",
+    "Service name": "Share Participation (SP) to HANTEX/HANVEEV (New registration)",
+    "Disposal %": "100",
+    "Application Received": 3,
+    "Approved": 0,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 81,
+    "eSevanam id": 1514,
+    "Department": "Directorate of Handlooms and Textiles",
+    "Service name": "Share participation to Powerloom co-operative socieites (SPP) (New registration)",
+    "Disposal %": "80",
+    "Application Received": 5,
+    "Approved": 2,
+    "Pending + Processing": 1
+  },
+  {
+    "Sl No": 82,
+    "eSevanam id": 1512,
+    "Department": "Directorate of Handlooms and Textiles",
+    "Service name": "Stipend to IIHT students (New registration)",
+    "Disposal %": "100",
+    "Application Received": 1,
+    "Approved": 1,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 83,
+    "eSevanam id": 1504,
+    "Department": "Directorate of Handlooms and Textiles",
+    "Service name": "Weavers / allied workers motivation programme/ production incentive for handloom workers (New registration)",
+    "Disposal %": "67.61",
+    "Application Received": 2013,
+    "Approved": 1052,
+    "Pending + Processing": 652
+  },
+  {
+    "Sl No": 84,
+    "eSevanam id": 1503,
+    "Department": "Directorate of Handlooms and Textiles",
+    "Service name": "Yuva Weave Scheme (New registration)",
+    "Disposal %": "85.42",
+    "Application Received": 96,
+    "Approved": 2,
+    "Pending + Processing": 14
+  },
+  {
+    "Sl No": 85,
+    "eSevanam id": 1197,
+    "Department": "Directorate of Industries and Commerce",
+    "Service name": "Assistance Scheme For Handicraft Artisans (ASHA) (New registration)",
+    "Disposal %": "70.8",
+    "Application Received": 113,
+    "Approved": 31,
+    "Pending + Processing": 33
+  },
+  {
+    "Sl No": 86,
+    "eSevanam id": 474,
+    "Department": "Directorate of Industries and Commerce",
+    "Service name": "Entrepreneur Support Scheme (Entrepreneur Support)",
+    "Disposal %": "82.33",
+    "Application Received": 9498,
+    "Approved": 7364,
+    "Pending + Processing": 1678
+  },
+  {
+    "Sl No": 87,
+    "eSevanam id": 477,
+    "Department": "Directorate of Industries and Commerce",
+    "Service name": "Essentiality Certificate for Raw Materials (New registration)",
+    "Disposal %": "90.64",
+    "Application Received": 481,
+    "Approved": 376,
+    "Pending + Processing": 45
+  },
+  {
+    "Sl No": 88,
+    "eSevanam id": 1199,
+    "Department": "Directorate of Industries and Commerce",
+    "Service name": "Interest Subvension on Term Loan and Working Capital Loan under Vyavasaya Bhadratha Covid-19 Relief  (New registration)",
+    "Disposal %": "95.16",
+    "Application Received": 4046,
+    "Approved": 3024,
+    "Pending + Processing": 196
+  },
+  {
+    "Sl No": 89,
+    "eSevanam id": 1830,
+    "Department": "Directorate of Industries and Commerce",
+    "Service name": "Lubricant Oil and Grease License for processing unit (New registration)",
+    "Disposal %": "100",
+    "Application Received": 5,
+    "Approved": 4,
+    "Pending + Processing": 0
+  },
+  {
+    "Sl No": 90,
+    "eSevanam id": 1831,
+    "Department": "Directorate of Industries and Commerce",
+    "Service name": "Lubricant Oil and Grease License for Renewal of Trading Activities (New registration)",
+    "Disposal %": "85",
+    "Application Received": 20,
+    "Approved": 17,
+    "Pending + Processing": 3
+  },
+  {
+    "Sl No": 91,
+    "eSevanam id": 1832,
+    "Department": "Directorate of Industries and Commerce",
+    "Service name": "Lubricant Oil and Grease License for Trading Unit (New registration)",
+    "Disposal %": "83.33",
+    "Application Received": 30,
+    "Approved": 25,
+    "Pending + Processing": 5
+  },
+  {
+    "Sl No": 92,
+    "eSevanam id": 1833,
+    "Department": "Directorate of Industries and Commerce",
+    "Service name": "Lubricant Oil and Grease License Renewal for Processing Unit (New registration)",
+    "Disposal %": "83.33",
+    "Application Received": 12,
+    "Approved": 10,
+    "Pending + Processing": 2
+  }
+]

@@ -1,0 +1,148 @@
+{
+  "fields": [
+    {
+      "id": "a",
+      "label": "City Name",
+      "type": "string"
+    },
+    {
+      "id": "b",
+      "label": "Ward",
+      "type": "string"
+    },
+    {
+      "id": "c",
+      "label": "Ward Number",
+      "type": "string"
+    },
+    {
+      "id": "d",
+      "label": "Year",
+      "type": "string"
+    },
+    {
+      "id": "e",
+      "label": "Road name",
+      "type": "string"
+    },
+    {
+      "id": "f",
+      "label": "Road length",
+      "type": "string"
+    }
+  ],
+  "data": [
+    [
+      "Thiruvananthapuram",
+      "Fort",
+      "80",
+      "2021",
+      "Thamman Street",
+      "155"
+    ],
+    [
+      "Thiruvananthapuram",
+      "Fort",
+      "80",
+      "2021",
+      "Ayya Vadhiyar Road",
+      "150"
+    ],
+    [
+      "Thiruvananthapuram",
+      "Fort",
+      "80",
+      "2021",
+      "Kothalam Jn. To West Fort",
+      "520"
+    ],
+    [
+      "Thiruvananthapuram",
+      "Fort",
+      "80",
+      "2021",
+      "Kothalam Road",
+      "210"
+    ],
+    [
+      "Thiruvananthapuram",
+      "Fort",
+      "80",
+      "2021",
+      "Taluk Office Road",
+      "429"
+    ],
+    [
+      "Thiruvananthapuram",
+      "Fort",
+      "80",
+      "2021",
+      "Charithra Veedhi",
+      "118"
+    ],
+    [
+      "Thiruvananthapuram",
+      "Fort",
+      "80",
+      "2021",
+      "Deekshithar Street",
+      "135"
+    ],
+    [
+      "Thiruvananthapuram",
+      "Fort",
+      "80",
+      "2021",
+      "Kallampalli Street",
+      "150"
+    ],
+    [
+      "Thiruvananthapuram",
+      "Fort",
+      "80",
+      "2021",
+      "Road Inside Fort",
+      "113"
+    ],
+    [
+      "Thiruvananthapuram",
+      "Fort",
+      "80",
+      "2021",
+      "Road Inside Fort",
+      "84"
+    ],
+    [
+      "Thiruvananthapuram",
+      "Chalai",
+      "71",
+      "2021",
+      "Tamil School Lane",
+      "271"
+    ],
+    [
+      "Thiruvananthapuram",
+      "Valiyashala",
+      "43",
+      "2021",
+      "Sree Chitra Road",
+      "88"
+    ],
+    [
+      "Thiruvananthapuram",
+      "Sreekandeshwaram",
+      "83",
+      "2021",
+      "Kochar Road, Fort",
+      "209"
+    ],
+    [
+      "Thiruvananthapuram",
+      "Thampanoor",
+      "81",
+      "2021",
+      "Sreemolam Road",
+      "248"
+    ]
+  ]
+}

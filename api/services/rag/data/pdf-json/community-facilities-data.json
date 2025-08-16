@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "id": "a",
+      "label": "City Name",
+      "type": "string"
+    },
+    {
+      "id": "b",
+      "label": "Zone Name",
+      "type": "string"
+    },
+    {
+      "id": "c",
+      "label": "Ward Name",
+      "type": "string"
+    },
+    {
+      "id": "d",
+      "label": "Ward  No ",
+      "type": "string"
+    },
+    {
+      "id": "e",
+      "label": "Type: Community Hall / Auditorium / Convention Center / Swimming Pools / Sports Ground / Theatre",
+      "type": "string"
+    },
+    {
+      "id": "f",
+      "label": "Facility Name",
+      "type": "string"
+    },
+    {
+      "id": "g",
+      "label": "Capacity (wherever applicable)",
+      "type": "string"
+    }
+  ],
+  "data": [
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Nemom kalayanba mandapam",
+      "NA",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "palkulangara kalyana mandapam",
+      "NA",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "kalippakulam kalyana mandapam",
+      "NA",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "kanjirampara Ems community hall",
+      "NA",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Pappanamkodu Kalyanamadapam",
+      "NA",
+      "NA"
+    ],
+    [
+      "Thiruvananthapuram",
+      "NA",
+      "NA",
+      "NA",
+      "Pazhanchira Auditorium",
+      "NA",
+      "NA"
+    ]
+  ]
+}

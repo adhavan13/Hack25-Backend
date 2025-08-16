@@ -1,0 +1,401 @@
+{
+  "ChiefSecretary": {
+    "name": "Dr. A Jayathilak IAS",
+    "designation": "Chief Secretary",
+    "address": "Room No 202, North sandwich Block, Secretariat",
+    "phone": ["0471-2333147", "2518181"],
+    "fax": "0471-2327176",
+    "email": "chiefsecy@kerala.gov.in",
+    "staffOfficer": {
+      "name": "Shri. Mohammed Y Safirulla K IAS",
+      "designation": "Staff Officer",
+      "address": "Room No: 376, Main Block, Secretariat",
+      "phone": ["0471-2518981", "2337332"],
+      "email": "staffofficertocs@gmail.com"
+    }
+  },
+  "AdditionalChiefSecretaries": [
+    {
+      "name": "Shri. K.R.Jyothilal IAS",
+      "designation": "Additional Chief Secretary",
+      "department": "Finance Dept",
+      "additionalCharges": [
+        "Taxes",
+        "Public Procurement Advisory",
+        "Planning and Economic Affairs (RKI)",
+        "Chief Executive Officer, Rebuild Kerala Initiative"
+      ],
+      "address": "Room No: 396, 1st floor, Main Block, Government Secretariat",
+      "phone": ["0471-2518292", "9446022644"],
+      "email": "acs.finance@kerala.gov.in"
+    },
+    {
+      "name": "Shri. Bishwanath Sinha IAS",
+      "designation": "Additional Chief Secretary",
+      "department": "Home and Vigilance Departments",
+      "additionalCharges": [
+        "Head of the Office of Resident Commissioner, Kerala House, New Delhi",
+        "Water Resources",
+        "Coastal Shipping & Inland Navigation Departments",
+        "Managing Director, Kerala Irrigation Infrastructure Development Corporation Limited",
+        "Forest and Wildlife Department"
+      ],
+      "address": "Room No. 357 (a), First Floor, Main Block, Secretariat, Thiruvananthapuram",
+      "phone": ["0471-2333174", "2518455"],
+      "email": "acs.home@kerala.gov.in"
+    },
+    {
+      "name": "Dr. Davendra Kumar Dhodawat IAS",
+      "designation": "Additional Chief Secretary",
+      "department": "Governor’s Secretariat",
+      "address": "",
+      "phone": ["0471-2721700", "2721100"]
+    },
+    {
+      "name": "Shri. Puneet Kumar IAS",
+      "designation": "Additional Chief Secretary",
+      "department": "Resident Commissioner, Kerala House, New Delhi",
+      "additionalCharges": [
+        "Scheduled Castes & Scheduled Tribes Development Dept",
+        "Backward Classes Development Dept",
+        "Power Department"
+      ],
+      "address": "Room No. 629, First Floor, South Block, Secretariat, Thiruvananthapuram",
+      "phone": ["0471-2518356"],
+      "email": ["secy.pwr@kerala.gov.in", "prlsecy.scdd@kerala.gov.in"]
+    },
+    {
+      "name": "Rajan N Khobragade IAS",
+      "designation": "Additional Chief Secretary",
+      "department": "Health and Family Welfare Department",
+      "additionalCharges": [
+        "Ayush",
+        "Cultural Affairs (Archaeology, Archives and Museums)",
+        "Personnel and Administrative Reforms Department",
+        "Personnel and Administrative Reforms (Official Language) Department"
+      ],
+      "address": "Room No. 603, 6th floor, Annex II, Secretariat",
+      "phone": ["0471-2335452", "9910816200"],
+      "email": "secy.hlth@kerala.gov.in"
+    }
+  ],
+  "Secretaries": [
+    {
+      "name": "Dr. Raju Narayana Swamy IAS",
+      "designation": "Principal Secretary",
+      "department": "Parliamentary Affairs Dept",
+      "address": "Room No. 619, 1st Floor, Main Block, Secretariat",
+      "phone": ["0471-2518973"],
+      "email": "prlsecypad@gmail.com"
+    },
+    {
+      "name": "Dr. B Ashok IAS",
+      "designation": "Principal Secretary, Agricultural Production Commissioner",
+      "department": "Agriculture Department",
+      "address": "Room No: 406, 4th Floor, Annex II",
+      "phone": ["0471-2517371", "2327339"],
+      "email": "secyagri@kerala.gov.in"
+    },
+    {
+      "name": "Dr. Sharmila Mary Joseph IAS",
+      "designation": "Principal Secretary",
+      "department": ["Woman and Child Development Department", "Higher Education Department"],
+      "address": "Room No 377, 1st floor, Main building, Secretariat",
+      "phone": ["0471-2518008"],
+      "email": "prlsecy,lsgd@kerala.gov.in"
+    },
+    {
+      "name": "Shri. Mohammed Hanish APM IAS",
+      "designation": "Principal Secretary",
+      "department": "Industries Department",
+      "additionalCharges": ["Revenue (Wakf)", "Sports and Youth Affairs Department"],
+      "address": "Room No:138, 2nd Floor, North Block, Secretariat",
+      "phone": ["0471-2327451", "2518228"],
+      "email": "prlsecy2.ind@kerala.gov.in"
+    },
+    {
+      "name": "Shri. Biju K IAS",
+      "designation": "Secretary",
+      "department": "Public Works Department",
+      "additionalCharges": [
+        "Tourism Department",
+        "General Administration",
+        "Transport (Aviation, Metro, Railway)",
+        "Special Officer, Capital Region Development Project-II"
+      ],
+      "address": "Room No: 302, Annex II, 3rd Floor",
+      "phone": ["0471-2518010", "2328822"],
+      "email": "secy.pwd@kerala.gov.in"
+    },
+    {
+      "name": "Shri. Ajith Kumar IAS",
+      "designation": "Resident Commissioner, Kerala House, New Delhi",
+      "department": "Food and Civil Supplies Department",
+      "additionalCharges": ["Special Officer, Capital Region Development Project II"],
+      "address": "Room No 640, 2nd Floor, South block",
+      "phone": ["0471-2518058", "0471-235449"],
+      "email": "asecy.food@kerala.gov.in"
+    },
+    {
+      "name": "Shri. Keshvendra Kumar IAS",
+      "designation": "Secretary",
+      "department": "Finance (Expenditure) Department",
+      "address": "Room No: 373, First Floor, Main Block, Secretariat",
+      "phone": ["0471-2518313"],
+      "email": "secy-exp.fin@kerala.gov.in"
+    },
+    {
+      "name": "Dr. K Vasuki IAS",
+      "designation": "Secretary",
+      "department": "General Education Department",
+      "additionalCharges": [
+        "Animal Husbandry",
+        "Dairy Development",
+        "Museum (Zoo)"
+      ]
+    },
+    {
+      "name": "Shri. S Harikishore IAS",
+      "designation": "Secretary",
+      "department": "Information and Public Relations Department",
+      "additionalCharges": [
+        "NORKA Department",
+        "Officer on Special Duty to Chief Minister",
+        "External Co-operation",
+        "Programme Implementation Evaluation and Monitoring Department"
+      ],
+      "address": "Room no: 378, First floor, Main Block, Secretariat",
+      "phone": ["0471-2322475", "2518880"],
+      "email": "secy.prd@kerala.gov.in"
+    },
+    {
+      "name": "Smt. Anupama T V IAS",
+      "designation": "Special Secretary",
+      "department": "Local Self Government Department",
+      "additionalCharges": ["Co-ordination"],
+      "phone": ["0471-2518880", "8547528698"],
+      "email": "specialsecretarylsgd@gmail.com"
+    },
+    {
+      "name": "Smt. Anjana M IAS",
+      "designation": "Additional Secretary",
+      "department": "GA(AIS) Dept",
+      "additionalCharges": [
+        "Special Officer, Kerala Public Enterprises (Selection and Recruitment) Board",
+        "Managing Director, Kerala State Backward Classes Development Corporation"
+      ],
+      "address": "Room No. 416, North Sandwich Block, Government Secretariat",
+      "phone": ["0471-2334665", "9400063765"],
+      "email": "dsaisgad@gmail.com"
+    },
+    {
+      "name": "Shri. Shibu A IAS",
+      "designation": "Additional Secretary",
+      "department": "Public Works Department",
+      "additionalCharges": [
+        "Managing Director, Kerala State Pottery Manufacturing Marketing and Welfare Development Corporation"
+      ],
+      "address": "Room No. 202, Second Floor, Annex II, Government Secretariat",
+      "phone": ["0471-2327130", "9847869532"],
+      "email": "as.pwd@kerala.gov.in"
+    },
+    {
+      "name": "Smt. Sheeba George IAS",
+      "designation": "Additional Secretary",
+      "department": "Health and Family Welfare Department",
+      "address": "Room No:606, 6th Floor, Annex II, Government Secretariat",
+      "phone": ["0471-2518886", "9446203628"]
+    },
+    {
+      "name": "Shri. R Gopakumar IAS",
+      "designation": "Deputy Secretary",
+      "department": "GAD",
+      "additionalCharges": ["Officer on Special Duty, O/o the Chief Secretary"],
+      "phone": ["0471-2518222", "9495155658"],
+      "email": "rgopakumar@gmail.com"
+    },
+    {
+      "name": "Dr. Veena N. Madhavan IAS",
+      "designation": "Special Secretary",
+      "department": "Co-operation Department",
+      "additionalCharges": [
+        "Planning and Economic Affairs Department",
+        "Member Secretary, Kerala State Planning Board"
+      ],
+      "address": "Room No: 301, Annex I, Government Secretariat",
+      "phone": ["0471-2320474", "9446322793"],
+      "email": "splsecy.pard@kerala.gov.in"
+    },
+    {
+      "name": "Shri. Mohd Shafiq IAS",
+      "designation": "Deputy Secretary and Director",
+      "department": "Programme Implementation Evaluation and Monitoring Department",
+      "additionalCharges": ["Additional Commissioner, Kerala Goods and Services Tax Dept"],
+      "phone": ["0471-2333407", "9871486436"],
+      "email": "piemdkerala@gmail.com"
+    },
+    {
+      "name": "Shri. Sachin Kumar Yadav IAS",
+      "designation": "Deputy Secretary",
+      "department": "Finance Department",
+      "additionalCharges": ["Deputy Chief Executive Officer, Rebuild Kerala Initiative"],
+      "phone": ["0471-2517394"],
+      "email": "financeosd2@gmail.com"
+    },
+    {
+      "name": "Smt. Anie Jula Thomas IAS",
+      "designation": "Officer on Special Duty",
+      "department": "Industries Department",
+      "additionalCharges": ["Managing Director, Kerala Transport Development Finance Corporation"],
+      "address": "Room No. 503, Annexe II, Government Secretariat, Thiruvananthapuram",
+      "phone": ["0471-2327994", "9446178652"],
+      "email": "ind.osd@kerala.gov.in"
+    },
+    {
+      "name": "Shri. Patil Ajit Bhagwatrao IAS",
+      "designation": "Secretary",
+      "department": "Finance (Resources) Department",
+      "additionalCharges": ["Commissioner, GST"],
+      "address": "Room No: 393, First Floor, Main Block, Government Secretariat",
+      "phone": ["0471-2517378", "9446010900"]
+    },
+    {
+      "name": "Shri. Mir Mohammed Ali IAS",
+      "designation": "Special Secretary",
+      "department": "Power Department",
+      "additionalCharges": [
+        "Chairman & Managing Director, Kerala State Electricity Board Limited",
+        "Managing Director, Kerala State Industrial Development Corporation"
+      ]
+    },
+    {
+      "name": "Shri. Jeevan Babu K IAS",
+      "designation": "Special Secretary",
+      "department": "Water Resource Department",
+      "additionalCharges": [
+        "Managing Director, Kerala Water Authority",
+        "Mission Director, Resilient Kerala PforR Additional Finance Programme (Coastal Protection)",
+        "Project for Coastal Conservation from the Asian Development Bank"
+      ]
+    },
+    {
+      "name": "Dr. D. Sajith Babu IAS",
+      "designation": "Special Secretary",
+      "department": "Co-operation Department",
+      "additionalCharges": ["Registrar of Co-operative Societies"]
+    },
+    {
+      "name": "Shri. Anupam Mishra IAS",
+      "designation": "Joint Secretary",
+      "department": "Higher Education Department"
+    },
+    {
+      "name": "Shri. P. B. Nooh IAS",
+      "designation": "Special Secretary",
+      "department": "Transport Department",
+      "additionalCharges": ["Chairman and Managing Director, Kerala Transport Development Finance Corporation"]
+    },
+    {
+      "name": "Dr. Adeela Abdulla IAS",
+      "designation": "Special Secretary",
+      "department": "Social Justice Department",
+      "additionalCharges": [
+        "Local Self-Government Department"
+      ],
+      "address": "Room No: 660, Third Floor, South Block, Government Secretariat",
+      "phone": ["8848678982"],
+      "email": ["sjsecykerala@gmail.com", "splsecywcd@gmail.com"]
+    },
+    {
+      "name": "Shri. Abdul Nasar B IAS",
+      "designation": "Special Secretary",
+      "department": "Fisheries Department"
+    },
+    {
+      "name": "Dr. A Kowsigan IAS",
+      "designation": "Secretary",
+      "department": "Ports Department",
+      "additionalCharges": [
+        "Commissioner for Land Revenue",
+        "Commissioner, Disaster Management",
+        "State Project Manager, National Cyclone Risk Mitigation Project",
+        "Special Officer and Collector, Government Land Resumption",
+        "Nodal officer for land title cases of Harrisons Malayalam Ltd and similar",
+        "Sainik Welfare Dept"
+      ]
+    },
+    {
+      "name": "Shri. Seeram Sambasiva Rao IAS",
+      "designation": "Special Secretary",
+      "department": "Electronics & Information Technology Department",
+      "additionalCharges": [
+        "Environment Department",
+        "Director, Survey and Land Records Department"
+      ],
+      "address": "Room No. 264, 2nd Floor, South Block, Secretariat",
+      "phone": ["0471-2518444"],
+      "email": "secy.itd@kerala.gov.in"
+    },
+    {
+      "name": "Dr. Chithra S IAS",
+      "designation": "Additional Secretary",
+      "department": "General Education Department",
+      "additionalCharges": [
+        "Principal Director, Local Self Government Department",
+        "Additional Secretary, Local Self Government (Waste Management) Department"
+      ]
+    },
+    {
+      "name": "Shri. Anu S Nair IAS",
+      "designation": "Deputy Secretary",
+      "department": "Revenue Department",
+      "additionalCharges": ["Director, Institute of Land and Disaster Management"]
+    },
+    {
+      "name": "Shri. M. G. Rajamanickam IAS",
+      "designation": "Secretary",
+      "department": "Revenue and Disaster Management Department",
+      "additionalCharges": [
+        "Housing Department",
+        "Revenue (Devaswom) Department",
+        "Food & Civil Supplies and Consumer Affairs Department",
+        "Chairman, Kerala State Civil Supplies Corporation",
+        "Commissioner, Guruvayur and Koodalmanikyam Devaswoms"
+      ],
+      "address": "Room No. 201, 2nd Floor, South Block, Secretariat",
+      "phone": ["0471-2518058"],
+      "email": "prl.secy.revenue@gmail.com"
+    },
+    {
+      "name": "Shri. Shanavas S IAS",
+      "designation": "Special Secretary",
+      "department": "Labour and Skills Department",
+      "additionalCharges": ["Director of Panchayats"]
+    },
+    {
+      "name": "Smt. Geetha A IAS",
+      "designation": "Additional Secretary",
+      "department": "Revenue Department",
+      "additionalCharges": [
+        "Commissioner, Housing",
+        "Secretary, Kerala State Housing Board",
+        "Director, Kerala State Nirmithi Kendra"
+      ]
+    },
+    {
+      "name": "Smt. V Vigneshwari IAS",
+      "designation": "Additional Secretary",
+      "department": "Agriculture Department",
+      "additionalCharges": [
+        "Deputy Project Director, Kerala Climate Resilient Agri-Value Chain Modernization Project (KERA)",
+        "Director, Centre for Continuing Education Kerala"
+      ]
+    },
+    {
+      "name": "Shri. Misal Sagar Bharat IAS",
+      "designation": "Deputy Secretary and Officer on Special Duty",
+      "department": "Scheduled Castes, Scheduled Tribes and Backward Classes Development Department",
+      "additionalCharges": ["Director, Backward Classes Development Department"]
+    }
+  ]
+}

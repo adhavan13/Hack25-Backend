@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "id": "a",
+      "label": "City Name",
+      "type": "string"
+    },
+    {
+      "id": "b",
+      "label": "Zone Name",
+      "type": "string"
+    },
+    {
+      "id": "c",
+      "label": "Ward Name",
+      "type": "string"
+    },
+    {
+      "id": "d",
+      "label": "Ward No",
+      "type": "string"
+    },
+    {
+      "id": "e",
+      "label": "No. of Public Primary Schools",
+      "type": "string"
+    },
+    {
+      "id": "f",
+      "label": "No. of Public Secondary Schools",
+      "type": "string"
+    },
+    {
+      "id": "g",
+      "label": "No. of Public Higher Secondary Schools",
+      "type": "string"
+    },
+    {
+      "id": "h",
+      "label": "No. of kindergartens",
+      "type": "string"
+    },
+    {
+      "id": "i",
+      "label": "No of Schools for Specially Abled (Blind / Deaf / Autistic) ",
+      "type": "string"
+    },
+    {
+      "id": "j",
+      "label": "No. of Graduation Colleges",
+      "type": "string"
+    },
+    {
+      "id": "k",
+      "label": "No. of Post Graduation Colleges",
+      "type": "string"
+    },
+    {
+      "id": "l",
+      "label": "No. of Public Toilets",
+      "type": "string"
+    },
+    {
+      "id": "m",
+      "label": "No. of Dispensaries / Primary Hospitals",
+      "type": "string"
+    },
+    {
+      "id": "n",
+      "label": "No. of Public Hospitals",
+      "type": "string"
+    },
+    {
+      "id": "o",
+      "label": "No. of Libraries",
+      "type": "string"
+    },
+    {
+      "id": "p",
+      "label": "No. of Community Centers",
+      "type": "string"
+    },
+    {
+      "id": "q",
+      "label": "No. of Parks and Gardens",
+      "type": "string"
+    },
+    {
+      "id": "r",
+      "label": "No. of Aadhar Enrollment centers",
+      "type": "string"
+    },
+    {
+      "id": "s",
+      "label": "No. of Licensed Hawkers",
+      "type": "string"
+    }
+  ],
+  "data": null
+}

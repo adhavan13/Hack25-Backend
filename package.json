@@ -1,0 +1,26 @@
+{
+  "name": "hack25-backend",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000H\u0000a\u0000c\u0000k\u00002\u00005\u0000-\u0000B\u0000a\u0000c\u0000k\u0000e\u0000n\u0000d\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhavan13/Hack25-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/adhavan13/Hack25-Backend/issues"
+  },
+  "homepage": "https://github.com/adhavan13/Hack25-Backend#readme",
+  "dependencies": {
+    "fs-extra": "^11.3.1",
+    "pdf-parse": "^1.1.1",
+    "playwright": "^1.54.2"
+  }
+}

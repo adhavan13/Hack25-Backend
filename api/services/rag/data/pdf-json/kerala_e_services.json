@@ -1,0 +1,380 @@
+[
+    {
+        "Sl No": 1,
+        "Portal name": "AIMS",
+        "Portal Purpose": "Assistance to farmers",
+        "Services": 5
+    },
+    {
+        "Sl No": 2,
+        "Portal name": "Ayush Homoeopathy Information Management System",
+        "Portal Purpose": "Medicine",
+        "Services": 1
+    },
+    {
+        "Sl No": 3,
+        "Portal name": "CMO",
+        "Portal Purpose": "Grievance Redressal",
+        "Services": 1
+    },
+    {
+        "Sl No": 4,
+        "Portal name": "COMPOSE",
+        "Portal Purpose": "Registration",
+        "Services": 5
+    },
+    {
+        "Sl No": 5,
+        "Portal name": "Contractors Portal",
+        "Portal Purpose": "Registration & Licensing",
+        "Services": 3
+    },
+    {
+        "Sl No": 6,
+        "Portal name": "CoreTIS",
+        "Portal Purpose": "Grievance Redressal",
+        "Services": 1
+    },
+    {
+        "Sl No": 7,
+        "Portal name": "Cpay",
+        "Portal Purpose": "Registration",
+        "Services": 1
+    },
+    {
+        "Sl No": 8,
+        "Portal name": "DCE SCHOLARSHIP",
+        "Portal Purpose": "Scholarships",
+        "Services": 1
+    },
+    {
+        "Sl No": 9,
+        "Portal name": "dhtschemes",
+        "Portal Purpose": "Handlooms and Textiles Services",
+        "Services": 21
+    },
+    {
+        "Sl No": 10,
+        "Portal name": "e-district",
+        "Portal Purpose": "Certificate Service",
+        "Services": 32
+    },
+    {
+        "Sl No": 11,
+        "Portal name": "e-housing",
+        "Portal Purpose": "Housing Applications",
+        "Services": 2
+    },
+    {
+        "Sl No": 12,
+        "Portal name": "e-RCMS",
+        "Portal Purpose": "Ration Card Services",
+        "Services": 17
+    },
+    {
+        "Sl No": 13,
+        "Portal name": "EBT Portal",
+        "Portal Purpose": "Electronic Benifit Transfer",
+        "Services": 2
+    },
+    {
+        "Sl No": 14,
+        "Portal name": "eemploymentexchange",
+        "Portal Purpose": "Employment Services",
+        "Services": 5
+    },
+    {
+        "Sl No": 15,
+        "Portal name": "egrantz 3.0",
+        "Portal Purpose": "Scholarships",
+        "Services": 25
+    },
+    {
+        "Sl No": 16,
+        "Portal name": "egroops 2.0",
+        "Portal Purpose": "Registration",
+        "Services": 1
+    },
+    {
+        "Sl No": 17,
+        "Portal name": "eHealth",
+        "Portal Purpose": "Health Services",
+        "Services": 1
+    },
+    {
+        "Sl No": 18,
+        "Portal name": "ENTREPRENEUR SUPPORT SCHEME",
+        "Portal Purpose": "SUPPORT",
+        "Services": 1
+    },
+    {
+        "Sl No": 19,
+        "Portal name": "etapp",
+        "Portal Purpose": "Utility",
+        "Services": 1
+    },
+    {
+        "Sl No": 20,
+        "Portal name": "FABOS",
+        "Portal Purpose": "Registration and Permits",
+        "Services": 12
+    },
+    {
+        "Sl No": 21,
+        "Portal name": "FIMS",
+        "Portal Purpose": "Fishermen Services",
+        "Services": 6
+    },
+    {
+        "Sl No": 22,
+        "Portal name": "HES Scholarship",
+        "Portal Purpose": "Scholarships",
+        "Services": 1
+    },
+    {
+        "Sl No": 23,
+        "Portal name": "Higher Secondary Scholarship",
+        "Portal Purpose": "Education",
+        "Services": 1
+    },
+    {
+        "Sl No": 24,
+        "Portal name": "HSCAP",
+        "Portal Purpose": "Higher Secondary Admission",
+        "Services": 2
+    },
+    {
+        "Sl No": 25,
+        "Portal name": "HSE Portal",
+        "Portal Purpose": "Education",
+        "Services": 4
+    },
+    {
+        "Sl No": 26,
+        "Portal name": "ICDMS",
+        "Portal Purpose": "Cooperative Societies",
+        "Services": 4
+    },
+    {
+        "Sl No": 27,
+        "Portal name": "Icops",
+        "Portal Purpose": "Police services",
+        "Services": 4
+    },
+    {
+        "Sl No": 28,
+        "Portal name": "JALAKAM",
+        "Portal Purpose": "New Registration",
+        "Services": 1
+    },
+    {
+        "Sl No": 29,
+        "Portal name": "K-Swift",
+        "Portal Purpose": "Registration",
+        "Services": 14
+    },
+    {
+        "Sl No": 30,
+        "Portal name": "KBT",
+        "Portal Purpose": "Building Tax Assesment",
+        "Services": 1
+    },
+    {
+        "Sl No": 31,
+        "Portal name": "Kerala Dairy Farmers Welfare Fund Board",
+        "Portal Purpose": "Welfare Schemes",
+        "Services": 6
+    },
+    {
+        "Sl No": 32,
+        "Portal name": "Kerala Tourism",
+        "Portal Purpose": "Tourism",
+        "Services": 10
+    },
+    {
+        "Sl No": 33,
+        "Portal name": "KINFRA",
+        "Portal Purpose": "Registration",
+        "Services": 1
+    },
+    {
+        "Sl No": 34,
+        "Portal name": "KSEB",
+        "Portal Purpose": "Electricity Services",
+        "Services": 9
+    },
+    {
+        "Sl No": 35,
+        "Portal name": "Ksheerasree",
+        "Portal Purpose": "Dairy Farmers Support",
+        "Services": 8
+    },
+    {
+        "Sl No": 36,
+        "Portal name": "LCAS 2.0",
+        "Portal Purpose": "Registration under various Acts",
+        "Services": 12
+    },
+    {
+        "Sl No": 37,
+        "Portal name": "LMOMS",
+        "Portal Purpose": "Registration",
+        "Services": 11
+    },
+    {
+        "Sl No": 38,
+        "Portal name": "LOTIS",
+        "Portal Purpose": "Lottery Information & Management System",
+        "Services": 1
+    },
+    {
+        "Sl No": 39,
+        "Portal name": "LSGD Citizen Portal",
+        "Portal Purpose": "Various services of Local Self Govt Department",
+        "Services": 28
+    },
+    {
+        "Sl No": 40,
+        "Portal name": "LSGD Citizen Service Portal",
+        "Portal Purpose": "Various Local Self Government Department Services",
+        "Services": 1
+    },
+    {
+        "Sl No": 41,
+        "Portal name": "MITRAM",
+        "Portal Purpose": "Grievance Redressal",
+        "Services": 1
+    },
+    {
+        "Sl No": 42,
+        "Portal name": "Noc Portal",
+        "Portal Purpose": "https://noc.fire.kerala.gov.in/",
+        "Services": 1
+    },
+    {
+        "Sl No": 43,
+        "Portal name": "NORKA Roots",
+        "Portal Purpose": "NRK Services",
+        "Services": 3
+    },
+    {
+        "Sl No": 44,
+        "Portal name": "Pareekshabhavan",
+        "Portal Purpose": "Exam related Services",
+        "Services": 6
+    },
+    {
+        "Sl No": 45,
+        "Portal name": "PEARL",
+        "Portal Purpose": "Documents & Certificates",
+        "Services": 9
+    },
+    {
+        "Sl No": 46,
+        "Portal name": "Qpay",
+        "Portal Purpose": "Utility",
+        "Services": 1
+    },
+    {
+        "Sl No": 47,
+        "Portal name": "ReALCRaft",
+        "Portal Purpose": "Fishing Craft Registration",
+        "Services": 2
+    },
+    {
+        "Sl No": 48,
+        "Portal name": "ReLIS",
+        "Portal Purpose": "Revenue Services",
+        "Services": 2
+    },
+    {
+        "Sl No": 49,
+        "Portal name": "Resthouse Booking",
+        "Portal Purpose": "Accomodation Booking",
+        "Services": 1
+    },
+    {
+        "Sl No": 50,
+        "Portal name": "SAMRAKSHA",
+        "Portal Purpose": "Registration",
+        "Services": 26
+    },
+    {
+        "Sl No": 51,
+        "Portal name": "Sanchaya",
+        "Portal Purpose": "Revenue and Licence System",
+        "Services": 7
+    },
+    {
+        "Sl No": 52,
+        "Portal name": "SARATHI",
+        "Portal Purpose": "Driving License related",
+        "Services": 26
+    },
+    {
+        "Sl No": 53,
+        "Portal name": "SBTE Portal",
+        "Portal Purpose": "Student Services",
+        "Services": 6
+    },
+    {
+        "Sl No": 54,
+        "Portal name": "Schemes - WCD Kerala",
+        "Portal Purpose": "Service Application",
+        "Services": 5
+    },
+    {
+        "Sl No": 55,
+        "Portal name": "schemes.industry",
+        "Portal Purpose": "Common Application Portal",
+        "Services": 5
+    },
+    {
+        "Sl No": 56,
+        "Portal name": "Service Plus",
+        "Portal Purpose": "Registration",
+        "Services": 87
+    },
+    {
+        "Sl No": 57,
+        "Portal name": "Sevana",
+        "Portal Purpose": "Pension",
+        "Services": 6
+    },
+    {
+        "Sl No": 58,
+        "Portal name": "Sugama",
+        "Portal Purpose": "RoW Services",
+        "Services": 4
+    },
+    {
+        "Sl No": 59,
+        "Portal name": "Suneethi",
+        "Portal Purpose": "Social Welfare Schemes",
+        "Services": 30
+    },
+    {
+        "Sl No": 60,
+        "Portal name": "Suraksha",
+        "Portal Purpose": "Registration",
+        "Services": 3
+    },
+    {
+        "Sl No": 61,
+        "Portal name": "VAHAN",
+        "Portal Purpose": "Vehicle Registration and Permits",
+        "Services": 43
+    },
+    {
+        "Sl No": 62,
+        "Portal name": "VHSE",
+        "Portal Purpose": "Education",
+        "Services": 8
+    },
+    {
+        "Sl No": 63,
+        "Portal name": "Vyavasaya Bhadratha",
+        "Portal Purpose": "COVID 19 Relief Package for MSMEs",
+        "Services": 1
+    }
+]
