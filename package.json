@@ -1,0 +1,28 @@
+{
+  "name": "hack25backend",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000H\u0000a\u0000c\u0000k\u00002\u00005\u0000-\u0000B\u0000a\u0000c\u0000k\u0000e\u0000n\u0000d\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhavan13/Hack25-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/adhavan13/Hack25-Backend/issues"
+  },
+  "homepage": "https://github.com/adhavan13/Hack25-Backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.0",
+    "nodemon": "^3.1.10"
+  }
+}
