@@ -76,3 +76,4 @@ async function addPost(req, res) {
 }
 
 module.exports = { addPost };
+    
