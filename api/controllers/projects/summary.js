@@ -1,7 +1,7 @@
 const ProjectEng = require("../../models/projectsEng");
 const ProjectMal = require("../../models/projectMal");
 const { capitalizeFirst } = require("../../utils/captalize");
-const { generateProjects, transformProjectSummary } = require("../../utils/transform");
+const { transformProjectSummary } = require("../../utils/transform");
 
 async function getSummary(req, res) {
   try {
