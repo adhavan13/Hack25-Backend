@@ -1,6 +1,7 @@
 // controllers/grievanceController.js
 
 const GrievanceEng = require("../../models/grievanceEng");
+const cloudinary = require("../../config/cloudinary");
 // Add a new grievance
 async function addPost(req, res) {
   try {
@@ -16,9 +17,15 @@ async function addPost(req, res) {
       status,
       assigned_officer_department,
       upvotes_count,
-      supporting_evidence,
     } = req.body;
-
+    const supporting_evidence = req.file;
+    // Upload image to Cloudinary
+    const uploadedImage = await cloudinary.uploader.upload(
+      supporting_evidence.path,
+      {
+        folder: "posts", // Optional: you can specify a folder in Cloudinary
+      }
+    );
     // Create a new grievance document
     const newGrievance = new GrievanceEng({
       grievance_title,
@@ -32,7 +39,7 @@ async function addPost(req, res) {
       status,
       assigned_officer_department,
       upvotes_count,
-      supporting_evidence,
+      supporting_evidence: uploadedImage.secure_url,
     });
 
     // Save to DB
