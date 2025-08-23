@@ -7,6 +7,7 @@ const PORT = process.env.PORT || 3001;
 connectDB();
 
 const projectsRoutes = require("./routes/projects.js");
+const grievanceRoutes = require("./routes/grievance.js");
 
 // Security middleware
 app.use(cors({ origin: "*" }));
@@ -17,6 +18,7 @@ app.get("/api", (req, res) => {
 });
 
 app.use("/api/projects", projectsRoutes);
+app.use("/api/grievance", grievanceRoutes);
 
 // Export for Vercel (serverless mode)
 module.exports = app;
