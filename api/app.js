@@ -5,6 +5,10 @@ const connectDB = require("./config/db.js");
 const app = express();
 const PORT = process.env.PORT || 3001;
 connectDB();
+const fs = require("fs");
+if (!fs.existsSync("uploads")) {
+  fs.mkdirSync("uploads");
+}
 
 const projectsRoutes = require("./routes/projects.js");
 const grievanceRoutes = require("./routes/grievance.js");

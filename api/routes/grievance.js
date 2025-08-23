@@ -7,9 +7,9 @@ const router = express.Router();
 
 const upload = require("../config/multerConfig.js"); // Import Multer config
 
-module.exports = router;
+
 
 router.post("/getPosts", getPosts);
-router.post("/addPost", upload.single("image"), addPost);
+router.post("/addPost", upload.single("supporting_evidence"), addPost);
 
 module.exports = router;
