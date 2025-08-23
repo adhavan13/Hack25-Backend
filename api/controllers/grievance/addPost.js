@@ -25,17 +25,39 @@ async function addPost(req, res) {
       });
     }
 
-    console.log("✅ File received:", req.file.filename);
+    console.log("✅ File received:", req.file.originalname);
 
-    // Upload image to Cloudinary
-    const uploadedImage = await cloudinary.uploader.upload(req.file.path, {
-      folder: "posts",
-    });
+    let uploadedImage;
+
+    // Handle different storage types
+    if (req.file.buffer) {
+      // Memory storage (Vercel/serverless)
+      console.log("📤 Uploading from memory buffer");
+      uploadedImage = await cloudinary.uploader.upload(
+        `data:${req.file.mimetype};base64,${req.file.buffer.toString(
+          "base64"
+        )}`,
+        {
+          folder: "posts",
+          resource_type: "image",
+        }
+      );
+    } else if (req.file.path) {
+      // Disk storage (local development)
+      console.log("📤 Uploading from file path");
+      uploadedImage = await cloudinary.uploader.upload(req.file.path, {
+        folder: "posts",
+      });
+
+      // Clean up local file after upload
+      if (fs.existsSync(req.file.path)) {
+        fs.unlinkSync(req.file.path);
+      }
+    } else {
+      throw new Error("No file data available");
+    }
 
     console.log("☁️ Cloudinary upload successful:", uploadedImage.secure_url);
-
-    // Clean up temporary file after successful upload
-    fs.unlinkSync(req.file.path);
 
     // Create a new grievance document
     const newGrievance = new GrievanceEng({
@@ -50,7 +72,7 @@ async function addPost(req, res) {
       status,
       assigned_officer_department,
       upvotes_count,
-      supporting_evidence: uploadedImage.secure_url, // Use Cloudinary URL
+      supporting_evidence: uploadedImage.secure_url,
     });
 
     const savedGrievance = await newGrievance.save();
@@ -61,8 +83,8 @@ async function addPost(req, res) {
       data: savedGrievance,
     });
   } catch (error) {
-    // Clean up temporary file if anything fails
-    if (req.file && fs.existsSync(req.file.path)) {
+    // Clean up local file if it exists and upload failed
+    if (req.file && req.file.path && fs.existsSync(req.file.path)) {
       fs.unlinkSync(req.file.path);
     }
 
@@ -76,4 +98,3 @@ async function addPost(req, res) {
 }
 
 module.exports = { addPost };
-    
