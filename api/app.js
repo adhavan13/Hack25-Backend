@@ -9,6 +9,7 @@ connectDB();
 const projectsRoutes = require("./routes/projects.js");
 const grievanceRoutes = require("./routes/grievance.js");
 const rtiReportRountes = require("./routes/rti.js");
+const chatbotRoutes = require("./routes/chatbot.js");
 
 // Security middleware
 app.use(cors({ origin: "*" }));
@@ -21,6 +22,7 @@ app.get("/api", (req, res) => {
 app.use("/api/projects", projectsRoutes);
 app.use("/api/grievance", grievanceRoutes);
 app.use("/api/rti", rtiReportRountes);
+app.use("/api/chatbot", chatbotRoutes);
 
 // Export for Vercel (serverless mode)
 module.exports = app;

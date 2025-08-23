@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/adhavan13/Hack25-Backend#readme",
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
     "cloudinary": "^2.7.0",
     "cors": "^2.8.5",
     "dotenv": "^17.2.1",

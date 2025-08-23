@@ -1,12 +1,12 @@
 const GoogleGenerativeAI = require("@google/generative-ai");
 const dotenv = require("dotenv");
-const priviousMessageSchema = require("../model/chatBot");
-const ChathistorySchema = require("../model/chatHistory");
+const priviousMessageSchema = require("../models/chatbotHistory");
+const ChathistorySchema = require("../models/chatbot");
 dotenv.config();
 
 // Initialize Gemini Model
 const genAI = new GoogleGenerativeAI.GoogleGenerativeAI(
-  "AIzaSyCuNPUVNfguLkW16jIgvQ8ez-sfGpVB2C4"
+  "AIzaSyD58ogiK9YJcyXTLanmvBpaRnq4zlq3tdA"
 );
 
 async function getPreviousMessage() {
@@ -56,7 +56,7 @@ async function combineMessages(messages) {
     Based on both the history and the current query, provide a well-formed and context-aware response.`;
 
   try {
-    const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro" });
+    const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
     const response = await model.generateContent(queryToCombine);
     const resultText = response.response.candidates[0].content.parts[0].text;
 
@@ -66,39 +66,47 @@ async function combineMessages(messages) {
     return "Error: Unable to fetch AI response";
   }
 }
-
 async function getResponseText(query) {
   try {
-    const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro" });
+    const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
 
     // Extract the response correctly
     const final_query = await combineMessages(query);
     console.log("Final Query:", final_query);
-    const main_query = `You are a smart and knowledgeable chatbot capable of answering both financial and general questions. Your responses should be brief, clear, and accurate. When users ask financial questions, provide concise yet informative answers. For general questions, respond with helpful and relevant information. Always ensure your answers are easy to understand and directly address the user's query.
+    const main_query = `You are an intelligent assistant for Kerala Government Transparency & Citizen Services, designed to help citizens access information about government schemes, services, and transparency initiatives. Your responses should be accurate, helpful, and citizen-focused.
+Core Functions:
 
-    Guidelines:
-    Answer briefly but accurately.
-    
-    Focus on clarity and relevance.
-    
-    Support financial queries with facts or definitions if needed.
-    
-    Be adaptable for both specific and general questions.
-    
-    Examples:
-    User: What is a mutual fund?
-    Chatbot: A mutual fund is a pool of money collected from investors to invest in stocks, bonds, or other assets, managed by a professional.
-    
-    User: What’s the capital of France?
-    Chatbot: The capital of France is Paris.
-    
-    User: Should I invest in stocks or real estate?
-    Chatbot: It depends on your goals. Stocks offer higher liquidity and potential returns, while real estate provides stability and passive income.
-    
-    User: How does compound interest work?
-    Chatbot: Compound interest is interest calculated on the initial principal and also on the accumulated interest from previous periods.
-    
-    Now you have to answer
+Provide information about Kerala government schemes and eligibility criteria
+Explain government services and application procedures
+Clarify transparency initiatives and RTI processes
+Answer questions about citizen rights and government policies
+Guide users to relevant government portals and offices
+
+Response Guidelines:
+
+Keep answers concise but comprehensive
+Use simple Malayalam-English terms familiar to Kerala citizens
+Prioritize accuracy and official information
+Include relevant scheme codes, portal links, or contact details when applicable
+Be sensitive to diverse socioeconomic backgrounds
+
+Knowledge Areas:
+
+Social welfare schemes (pensions, housing, healthcare)
+Employment programs (MGNREGA, skill development)
+Education initiatives and scholarships
+Digital services and e-governance
+RTI procedures and transparency measures
+Local governance (Panchayat/Corporation services)
+
+Examples:
+User: What is Karunya Benevolent Fund?
+Assistant: Karunya Benevolent Fund provides financial assistance up to ₹5 lakh for critical medical treatments. Apply online through the official Kerala government portal with medical documents and income certificate.
+User: How to apply for old age pension?
+Assistant: Apply for Kerala State Social Security Pension through your local Panchayat/Corporation. Required: Age proof (60+), income certificate, Aadhaar, bank passbook. Monthly amount: ₹1,600.
+User: What is Right to Information?
+Assistant: RTI allows citizens to access government information within 30 days. File applications online via rtionline.kerala.gov.in or at government offices with ₹10 fee.
+Always prioritize official, verified information and direct citizens to appropriate government channels when needed.
     
     User${final_query}
     `;

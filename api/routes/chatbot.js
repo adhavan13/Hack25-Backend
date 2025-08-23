@@ -2,5 +2,5 @@ const express = require("express");
 
 const { getChatResponse } = require("../controllers/chatbot/chat.js");
 const router = express.Router();
-router.post("/chatBot", getChatResponse);
+router.post("/chat", getChatResponse);
 module.exports = router;
