@@ -1,8 +1,12 @@
 const express = require("express");
 
-const { getProjects } = require("../controllers/projects/getProjectsName.js");
+const {
+  getProjectsName,
+} = require("../controllers/projects/getProjectsName.js");
+const { getProjectDetails } = require("../controllers/projects/getProjectDetails.js");
 const router = express.Router();
 
-router.post("/get", getProjects);
+router.post("/getNames", getProjectsName);
+router.post("/getDetails", getProjectDetails);
 
 module.exports = router;

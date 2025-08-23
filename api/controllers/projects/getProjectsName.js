@@ -1,7 +1,7 @@
 const ProjectEng = require("../../models/projectsEng"); // import your mongoose model
 const ProjectMal = require("../../models/projectMal"); // import your mongoose model
 
-async function getProjects(req, res) {
+async function getProjectsName(req, res) {
   try {
     const { sector, pageSize, offset, filters, language, location } = req.body;
 
@@ -38,4 +38,4 @@ async function getProjects(req, res) {
   }
 }
 
-module.exports = { getProjects };
+module.exports = { getProjectsName };
