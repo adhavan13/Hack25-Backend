@@ -6,7 +6,7 @@ dotenv.config();
 
 // Initialize Gemini Model
 const genAI = new GoogleGenerativeAI.GoogleGenerativeAI(
-  "AIzaSyD58ogiK9YJcyXTLanmvBpaRnq4zlq3tdA"
+  "AIzaSyBkL0EgwyaV03rwcNTNnb75Wld1fK_MxaM"
 );
 
 async function getPreviousMessage() {
